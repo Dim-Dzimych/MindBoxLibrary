@@ -1,0 +1,9 @@
+/Users/dzmitryhastsilovich/RiderProjects/MindBoxLibrary/MindBoxLibrary/bin/Debug/netcoreapp3.1/MindBoxLibrary.deps.json
+/Users/dzmitryhastsilovich/RiderProjects/MindBoxLibrary/MindBoxLibrary/bin/Debug/netcoreapp3.1/MindBoxLibrary.dll
+/Users/dzmitryhastsilovich/RiderProjects/MindBoxLibrary/MindBoxLibrary/bin/Debug/netcoreapp3.1/MindBoxLibrary.pdb
+/Users/dzmitryhastsilovich/RiderProjects/MindBoxLibrary/MindBoxLibrary/obj/Debug/netcoreapp3.1/MindBoxLibrary.csprojAssemblyReference.cache
+/Users/dzmitryhastsilovich/RiderProjects/MindBoxLibrary/MindBoxLibrary/obj/Debug/netcoreapp3.1/MindBoxLibrary.AssemblyInfoInputs.cache
+/Users/dzmitryhastsilovich/RiderProjects/MindBoxLibrary/MindBoxLibrary/obj/Debug/netcoreapp3.1/MindBoxLibrary.AssemblyInfo.cs
+/Users/dzmitryhastsilovich/RiderProjects/MindBoxLibrary/MindBoxLibrary/obj/Debug/netcoreapp3.1/MindBoxLibrary.csproj.CoreCompileInputs.cache
+/Users/dzmitryhastsilovich/RiderProjects/MindBoxLibrary/MindBoxLibrary/obj/Debug/netcoreapp3.1/MindBoxLibrary.dll
+/Users/dzmitryhastsilovich/RiderProjects/MindBoxLibrary/MindBoxLibrary/obj/Debug/netcoreapp3.1/MindBoxLibrary.pdb
